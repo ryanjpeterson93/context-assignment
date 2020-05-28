@@ -1,3 +1,26 @@
+# React - Context Assignment
+
+### Assignment given as part of the DevPoint Labs Full Stack Web Development Course
+
+#### Week 6
+
+Basic Objectives:
+
+-Create a new React application.
+
+-Using the React Context API, create a new provider called UserProvider. (basically todays lecture)
+
+-User will have an email, firstName, lastName, avatar, or whatever else you want.
+
+-Feel free to hard code the users values to start. 
+
+-Using React Router, render a component to display the User's info. 
+
+-Be able to update the user's info and have it update the throughout the application. 
+
+-Style the application. 
+
+-----
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
